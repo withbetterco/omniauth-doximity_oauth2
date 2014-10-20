@@ -5,10 +5,8 @@ A [Doximity](http://www.doximity.com) OAuth2 Strategy for [OmniAuth](https://git
 Doximity API Information at http://developer.doximity.com/oauth.html
 
 ## Continuous Integration Status
-| Branch | Status |
-|--------|--------|
-| master | [![Build Status](https://api.travis-ci.org/indiebrain/omniauth-doximity_oauth2.svg?branch=master)](https://travis-ci.org/indiebrain/omniauth-doximity_oauth2) |
-| develop | [![Build Status](https://travis-ci.org/indiebrain/omniauth-doximity_oauth2.svg?branch=develop)](https://travis-ci.org/indiebrain/omniauth-doximity_oauth2) |
+[![Build Status](https://api.travis-ci.org/indiebrain/omniauth-doximity_oauth2.svg?branch=master)](https://travis-ci.org/indiebrain/omniauth-doximity_oauth2)
+
 
 ## Installation
 
