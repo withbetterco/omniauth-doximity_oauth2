@@ -4,7 +4,7 @@ module OmniAuth
 
       option :name, 'doximity'
       option :client_options, {
-        site: 'http://www.doximity.com',
+        site: 'https://www.doximity.com',
         authorize_url: 'https://auth.doximity.com/oauth/authorize',
         token_url: 'https://auth.doximity.com/oauth/token'
       }
